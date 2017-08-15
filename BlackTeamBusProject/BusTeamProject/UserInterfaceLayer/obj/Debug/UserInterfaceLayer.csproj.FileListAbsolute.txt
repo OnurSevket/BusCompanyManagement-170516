@@ -1,0 +1,84 @@
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe.config
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.AddressForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.AuthoryForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusEmployeeForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusPropertyForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusRegistrationForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusSeatForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusTypeForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.CityForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.DistrictForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.EmployeeRegistration.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.LoginForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.OfficeForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PassangerRegistrationForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PaymentForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PaymentTypeForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.Properties.Resources.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RoadExpenseForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RoleForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RouteMapForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RouteSeatSelectionForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.TicketForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.TravelForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.WorkHourForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.exe
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.MainForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusRouteSelectionForm.resources
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PassangerLoginForm.resources
+C:\Users\Onur\Desktop\BlackTeamBusProject\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe.config
+C:\Users\Onur\Desktop\BlackTeamBusProject\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.exe
+C:\Users\Onur\Desktop\BlackTeamBusProject\BlackTeamAdoNetBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe.config
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.exe
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.AddressForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.AuthoryForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusEmployeeForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusPropertyForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusRegistrationForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusRouteSelectionForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusSeatForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.BusTypeForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.CityForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.DistrictForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.EmployeeRegistration.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.LoginForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.MainForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.OfficeForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PassangerLoginForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PassangerRegistrationForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PaymentForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.PaymentTypeForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.Properties.Resources.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RoadExpenseForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RoleForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RouteMapForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.RouteSeatSelectionForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.TicketForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.TravelForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.WorkHourForm.resources
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\BusCompanyManagement-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe.config
+C:\Users\Onur\Desktop\BusCompanyManagement-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.exe
+C:\Users\Onur\Desktop\BusCompanyManagement-170516\BlackTeamBusProject\BusTeamProject\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.pdb

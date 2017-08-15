@@ -1,0 +1,14 @@
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

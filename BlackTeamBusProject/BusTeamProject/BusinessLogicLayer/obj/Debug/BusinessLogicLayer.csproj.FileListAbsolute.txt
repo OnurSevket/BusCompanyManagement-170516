@@ -1,0 +1,18 @@
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

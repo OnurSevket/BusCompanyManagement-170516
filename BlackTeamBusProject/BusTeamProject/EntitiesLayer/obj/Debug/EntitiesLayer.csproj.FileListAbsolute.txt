@@ -1,0 +1,10 @@
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\TFS_BlackTeamVol2\BlackTeamAdoNetBusProject\BusTeamProject\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Onur\Desktop\Bilge Adam\ADO Proje\AdoNet Project-170516\BlackTeamBusProject\BusTeamProject\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

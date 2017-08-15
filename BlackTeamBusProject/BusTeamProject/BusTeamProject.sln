@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00_Entities", "00_Entities", "{32411B56-FC4F-4FBE-8E11-85C327872A14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_DataAccessLayer", "01_DataAccessLayer", "{828A91E9-BE4A-4AF4-A638-E8BC5E905BDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_BussinessLogicLayer", "02_BussinessLogicLayer", "{27FE2312-4E07-42DB-9D02-99EB55FC3E9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_UserInterfaceLayer", "03_UserInterfaceLayer", "{5D940F93-419E-46BD-B3DF-53CA0D3CD53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesLayer", "EntitiesLayer\EntitiesLayer.csproj", "{B53A6AB9-D18E-4757-9D7C-6C416AF4DA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{0AF1B10A-879B-4CC0-972E-85DC1F6ADA12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{EB321C65-3729-4547-A257-EFAF10A6887D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaceLayer", "UserInterfaceLayer\UserInterfaceLayer.csproj", "{57D47ECB-BB7E-43CE-9DBB-10DFB3033960}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://neptuneblack.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EntitiesLayer\\EntitiesLayer.csproj
+		SccProjectTopLevelParentUniqueName1 = BusTeamProject.sln
+		SccProjectName1 = EntitiesLayer
+		SccLocalPath1 = EntitiesLayer
+		SccProjectUniqueName2 = DataAccessLayer\\DataAccessLayer.csproj
+		SccProjectTopLevelParentUniqueName2 = BusTeamProject.sln
+		SccProjectName2 = DataAccessLayer
+		SccLocalPath2 = DataAccessLayer
+		SccProjectUniqueName3 = BusinessLogicLayer\\BusinessLogicLayer.csproj
+		SccProjectTopLevelParentUniqueName3 = BusTeamProject.sln
+		SccProjectName3 = BusinessLogicLayer
+		SccLocalPath3 = BusinessLogicLayer
+		SccProjectUniqueName4 = UserInterfaceLayer\\UserInterfaceLayer.csproj
+		SccProjectTopLevelParentUniqueName4 = BusTeamProject.sln
+		SccProjectName4 = UserInterfaceLayer
+		SccLocalPath4 = UserInterfaceLayer
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53A6AB9-D18E-4757-9D7C-6C416AF4DA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53A6AB9-D18E-4757-9D7C-6C416AF4DA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53A6AB9-D18E-4757-9D7C-6C416AF4DA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53A6AB9-D18E-4757-9D7C-6C416AF4DA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF1B10A-879B-4CC0-972E-85DC1F6ADA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF1B10A-879B-4CC0-972E-85DC1F6ADA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF1B10A-879B-4CC0-972E-85DC1F6ADA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF1B10A-879B-4CC0-972E-85DC1F6ADA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB321C65-3729-4547-A257-EFAF10A6887D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB321C65-3729-4547-A257-EFAF10A6887D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB321C65-3729-4547-A257-EFAF10A6887D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB321C65-3729-4547-A257-EFAF10A6887D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D47ECB-BB7E-43CE-9DBB-10DFB3033960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D47ECB-BB7E-43CE-9DBB-10DFB3033960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D47ECB-BB7E-43CE-9DBB-10DFB3033960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D47ECB-BB7E-43CE-9DBB-10DFB3033960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B53A6AB9-D18E-4757-9D7C-6C416AF4DA88} = {32411B56-FC4F-4FBE-8E11-85C327872A14}
+		{0AF1B10A-879B-4CC0-972E-85DC1F6ADA12} = {828A91E9-BE4A-4AF4-A638-E8BC5E905BDA}
+		{EB321C65-3729-4547-A257-EFAF10A6887D} = {27FE2312-4E07-42DB-9D02-99EB55FC3E9E}
+		{57D47ECB-BB7E-43CE-9DBB-10DFB3033960} = {5D940F93-419E-46BD-B3DF-53CA0D3CD53D}
+	EndGlobalSection
+EndGlobal
